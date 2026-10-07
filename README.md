@@ -19,7 +19,7 @@ Ceny na jutro są znane już **ok. 11:00** dzisiaj. Mając je u siebie, możesz 
 W [TymOS](https://github.com/tymoteuszrogalewski/tymos) ceny Fixing I służą jako **prognoza cen Pstryka na jutro**, zanim Pstryk je opublikuje:
 
 ![Prognoza cen z TGE](docs/1-prognoza-tge.png)<br>
-*Przed publikacją cen Pstryka: biała przerywana linia to prognoza ceny na podstawie TGE. Słupki — ceny w ciągu doby (zielone tanie, czerwone drogie, niebieski — bieżąca godzina), niebieska przerywana linia — zużycie domu.*
+*Przed publikacją cen Pstryka: biała przerywana linia to prognoza ceny na podstawie TGE. Do ceny z RDN doliczam opłaty dystrybucyjne, prowizję Pstryka, akcyzę i VAT — dzięki temu prognoza ma dokładnie tę formę i wartość, jaką za godzinę czy kilka godzin Pstryk opublikuje dla mnie jako konkretnego klienta. Słupki — ceny w ciągu doby (zielone tanie, czerwone drogie, niebieski — bieżąca godzina), niebieska przerywana linia — zużycie domu.*
 
 ![Ceny Pstryka po publikacji](docs/2-ceny-pstryk.png)<br>
 *Po publikacji: biała ciągła linia to już opublikowane ceny Pstryka na jutro.*
